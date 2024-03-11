@@ -15,7 +15,7 @@ public class Application3 {
     public static void main(String[] args) {
         Student student1; // 학생을 담아 둘 수 있는 변수 선언
         student1 = new Student(); // 학생을 실제 메모리에 생성
-        // 배열에서는 []를 통해서 접근했지만, 클래스에서는 .을이용하여 멤버 변수에 접근한다.
+        // 배열에서는 []를 통해서 접근했지만, 클래스에서는 메모리에 존재하는 객체에 접근하려면 .을이용하여 멤버 변수에 접근한다.
         student1.name = "학생1";
         student1.age = 15;
         student1.grade = 90;
