@@ -1,11 +1,6 @@
 package study.section01.class01;
 
 public class Application4 {
-    /*
-    *
-    * */
-
-
 
     public static void main(String[] args) {
         Student student1;
