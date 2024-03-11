@@ -6,7 +6,7 @@ public class Application2 {
         // 배열의 선언 및 초기화
         String[] studentNames = { "학생1", "학생2", "학생3"};
         int[] studentAges = { 15, 16, 20 };
-        int[] studentGrade = { 70, 85, 90 };
+        int[] studentGrade = { 90, 80, 90 };
 
         /* 코드의 문제점
         * 학생을 추가할때 값을 일일이 하나씩 넣어주어야하며
